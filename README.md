@@ -4,7 +4,10 @@ Currently, I’m a Y4S1 student pursuing a degree in Software Engineering. I’m
 - **Course expectations**: To gain hands-on experience in maintaining and evolving software.
 
 [My image] 
-WhatsApp Image 2024-10-08 at 21.54.42.jpeg
+
+
+![WhatsApp Image 2024-10-08 at 21 54 42](https://github.com/user-attachments/assets/64a3678e-05c5-41c9-b439-ea4aa74482cc)
+
 You can view my personalized github profile here
 https://github.com/Jiaxuanchong
 
