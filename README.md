@@ -1,4 +1,4 @@
-Hi, I am Chong Jia Xuan
+Hi, I am Chong Jia Xuan. 
 Currently, I’m a Y4S1 student pursuing a degree in Software Engineering. I’m enrolled in the Software Maintenance and Evolution course, where I aim to deepen my understanding of modern software maintenance practices and learn how to work effectively with legacy systems.
 
 - **Fun fact**: When I’m not coding, you can find me playing the piano, listening to music, learning to play new instruments! Music has always been a passion of mine, and it’s my way to relax and recharge.
