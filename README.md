@@ -3,8 +3,8 @@ Currently, I’m a Y4S1 student pursuing a degree in Software Engineering. I’m
 - **Fun fact**: When I’m not coding, you can find me playing the piano, listening to music, learning to play new instruments! Music has always been a passion of mine, and it’s my way to relax and recharge.
 - **Course expectations**: To gain hands-on experience in maintaining and evolving software.
 
-[My image] --> https://github.com/SoftwareMaintenanceEvolution/tutorial-1-Jiaxuanchong/blob/profile-upload/WhatsApp%20Image%202024-10-08%20at%2021.54.42.jpeg
-
+[My image] 
+WhatsApp Image 2024-10-08 at 21.54.42.jpeg
 You can view my personalized github profile here
 https://github.com/Jiaxuanchong
 
